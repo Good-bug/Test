@@ -1,0 +1,27 @@
+{
+	"name": "Duck #57",
+	"description": "Dux of ducks",
+	"image": "https://raw.githubusercontent.com/Good-bug/Test/refs/heads/master/4/img.jpg",
+	"attributes": [
+	  {
+		"trait_type": "Material",
+		"value": "Wool fabric"
+	  },
+	  {
+		"trait_type": "Hat",
+		"value": "Top hat"
+	  },
+	  {
+		"trait_type": "Glasses",
+		"value": "None"
+	  },
+	  {
+		"trait_type": "Item",
+		"value": "None"
+	  },
+	  {
+		"trait_type": "Background",
+		"value": "Dark"
+	  }
+	]
+  }
