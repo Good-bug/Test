@@ -1,8 +1,6 @@
 {
 	"name": "The Timekeeper",
 	"description": "The Nymb Timekeeper represents your mastery over time, granting you exclusive privileges and bonuses. In a world where time is the ultimate resource, this NFT proves you value every second. It’s your key to hidden opportunities and advantages, available only to those who truly understand the power of time. Time runs out for everyone — but not for you.",
-	"image": "https://github.com/Good-bug/Test/raw/refs/heads/master/0/img.jpg",
-	"animation_url": "https://github.com/Good-bug/Test/raw/refs/heads/master/0/nymb-nft-animation.webm",
-	"content_url": "https://github.com/Good-bug/Test/raw/refs/heads/master/0/nymb-nft-animation.webm",
-	"content_type": "image/webm"
+	"image": "https://github.com/Good-bug/Test/raw/refs/heads/master/0/nymb-nft-animation.webm"
+
   }
